@@ -1,0 +1,88 @@
+/* Blog list grid */
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Blog card */
+.blog-card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Hover effect */
+.blog-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+}
+
+/* Blog card image */
+.blog-card-img {
+  width: 100%;
+  height: 20vw;          /* 20% of viewport width */
+  min-height: 180px;     /* prevent too small */
+  max-height: 320px;     /* prevent too tall */
+  object-fit: cover;
+  display: block;
+}
+
+/* Blog title */
+.blog-card h3 {
+  margin: 16px 16px 8px;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #222;
+}
+
+/* Blog summary */
+.blog-card p {
+  margin: 0 16px 16px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #555;
+}
+
+/* Read more link */
+.read-more {
+  display: inline-block;
+  margin: 0 16px 18px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #1a73e8;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.read-more:hover {
+  color: #0c47a1;
+  text-decoration: underline;
+}
+
+/* Empty state */
+.no-blogs {
+  text-align: center;
+  padding: 50px;
+  font-size: 1.2rem;
+  color: #777;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .blog-card-img {
+    height: 50vw;      /* taller images on mobile */
+    min-height: 200px;
+  }
+
+  .blog-card h3 {
+    font-size: 1.25rem;
+  }
+
+  .blog-card p {
+    font-size: 0.95rem;
+  }
+}

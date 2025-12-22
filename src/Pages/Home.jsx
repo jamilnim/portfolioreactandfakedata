@@ -1,6 +1,4 @@
 import React, { useEffect } from "react";
-import ProjectLists from "../components/projectlist/ProjectLists";
-import Gallery from "../components/Gallery";
 import Hotsports from "../components/hotspot/Hotspot";
 import ExperienceBox from "../components/highlightBox/ ExperienceBox";
 import Aboutme from "../components/aboutme/Aboutme";
@@ -8,6 +6,8 @@ import Strength from "../components/strength/Strength";
 import RecommendationCarousel from "../components/recomendation/RecommendationCarousel";
 import { useLocation } from "react-router-dom";
 import Card from "../components/sevicepromo/Card";
+import ProjectsList from "../components/projectlist/ProjectsList";
+import BlogList from "../components/Blog/BlogList";
 
 
 
@@ -28,11 +28,9 @@ function Home() {
       <Aboutme />
       <Card/>
       <Strength />
-      <section id="projects">
-     
-      <ProjectLists />
-      </section>
+      <ProjectsList />
       <RecommendationCarousel />
+      <BlogList />
      
     </div>
   );

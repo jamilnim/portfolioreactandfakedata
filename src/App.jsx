@@ -8,13 +8,14 @@ import Root from "./Pages/Root";
 
 // Pages
 import Home from "./Pages/Home";
-import ProjectLists from "./components/projectlist/ProjectLists";
-import ProjectDetail from "./components/projectlist/Aproject";
-import Gallery from "./components/Gallery";
-import Blog from "./Pages/blog/Blog";
+
 import ContactForm from "./Pages/contactform/ContactForm";
 import MassageList from "./Pages/contactform/MassageList";
 import Login from "./components/login/login";
+import ProjectsList from "./components/projectlist/ProjectsList";
+import ProjectPage from "./Pages/ProjectPage";
+import BlogList from "./components/Blog/BlogList";
+import BlogDetailPage from "./Pages/blog/BlogDetailPage";
 
 function App() {
   const [user, setUser] = useState(null);
@@ -36,14 +37,15 @@ function App() {
           <Route path="home" element={<Home />} />
 
           {/* Projects */}
-          <Route path="projects" element={<ProjectLists />} />
-          <Route path="projects/:id" element={<ProjectDetail />} />
-
-          {/* Gallery */}
-          <Route path="gallery" element={<Gallery />} />
+          <Route path="projects" element={<ProjectsList />} />
+          <Route path="/projects/:slug" element={<ProjectPage />} />
 
           {/* Blog */}
-          <Route path="blog" element={<Blog />} />
+
+     
+            <Route path="/blog" element={<BlogList />} />
+            <Route path="/blog/:slug" element={<BlogDetailPage />} />
+     
 
           {/* Contact */}
           <Route path="contact" element={<ContactForm />} />
