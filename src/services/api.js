@@ -1,7 +1,7 @@
-const API_URL = "http://localhost:1337/api";
+const DATA_URL = "/data/projects.json";
 
 /* =====================================================
-   PROJECTS (FLAT STRAPI DATA)
+   NORMALIZER (UNCHANGED LOGIC)
 ===================================================== */
 
 function normalizeProject(item) {
@@ -18,21 +18,24 @@ function normalizeProject(item) {
   };
 }
 
+/* =====================================================
+   FAKE FETCH
+===================================================== */
+
 export async function getProjects() {
-  const res = await fetch(`${API_URL}/projects?populate=cover`);
-  if (!res.ok) throw new Error("Failed to fetch projects");
+  const res = await fetch(DATA_URL);
+  if (!res.ok) throw new Error("Failed to load projects");
   const json = await res.json();
   return (json.data || []).map(normalizeProject);
 }
 
 export async function getProjectBySlug(slug) {
-  const res = await fetch(
-    `${API_URL}/projects?filters[slug][$eq]=${encodeURIComponent(slug)}&populate=cover`
-  );
-  if (!res.ok) throw new Error("Project not found");
+  const res = await fetch(DATA_URL);
+  if (!res.ok) throw new Error("Failed to load project");
   const json = await res.json();
-  const item = json.data?.[0];
+
+  const item = json.data.find((p) => p.slug === slug);
   if (!item) throw new Error("Project not found");
+
   return normalizeProject(item);
 }
-

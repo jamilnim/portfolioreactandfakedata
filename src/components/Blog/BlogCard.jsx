@@ -17,7 +17,9 @@ export default function BlogCard({ blog }) {
         <p>{blog.summary}</p>
         <span>{blog.date}</span>
 
-        <Link to={`/blog/${blog.slug}`}>Read More</Link>
+        <Link className="read-more" to={`/blog/${blog.slug}`}>
+          Read More
+        </Link>
       </div>
     </div>
   );

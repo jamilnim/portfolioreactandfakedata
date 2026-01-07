@@ -1,5 +1,8 @@
-const STRAPI_URL = "http://localhost:1337";
-const BLOG_API = `${STRAPI_URL}/api/blogs`;
+const BLOGS_URL = "/data/blogs.json";
+
+/* ===============================
+   NORMALIZER (unchanged shape)
+================================ */
 
 function normalizeBlog(item) {
   return {
@@ -9,24 +12,23 @@ function normalizeBlog(item) {
     slug: item.slug,
     date: item.date || item.createdAt,
     body: item.body || [],
-    category: item.category,
+    category: item.category || "",
 
-    mainImage: item.mainImage?.url
-      ? STRAPI_URL + item.mainImage.url
-      : null,
-
-    subImage: item.subImage?.url
-      ? STRAPI_URL + item.subImage.url
-      : null,
+    mainImage: item.mainImage?.url || null,
+    subImage: item.subImage?.url || null,
   };
 }
 
-// 🔹 All blogs
+/* ===============================
+   ALL BLOGS
+================================ */
+
 export async function getBlogs() {
   try {
-    const res = await fetch(`${BLOG_API}?populate=*`);
-    const json = await res.json();
+    const res = await fetch(BLOGS_URL);
+    if (!res.ok) throw new Error("Failed to load blogs");
 
+    const json = await res.json();
     if (!Array.isArray(json.data)) return [];
 
     return json.data.map(normalizeBlog);
@@ -36,17 +38,19 @@ export async function getBlogs() {
   }
 }
 
-// 🔹 Single blog by slug
+/* ===============================
+   SINGLE BLOG BY SLUG
+================================ */
+
 export async function getBlogBySlug(slug) {
   try {
-    const res = await fetch(
-      `${BLOG_API}?filters[slug][$eq]=${slug}&populate=*`
-    );
+    const res = await fetch(BLOGS_URL);
+    if (!res.ok) throw new Error("Failed to load blog");
+
     const json = await res.json();
+    const blog = json.data.find((b) => b.slug === slug);
 
-    if (!json.data?.length) return null;
-
-    return normalizeBlog(json.data[0]);
+    return blog ? normalizeBlog(blog) : null;
   } catch (err) {
     console.error("❌ getBlogBySlug failed:", err);
     return null;

@@ -1,0 +1,4129 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "documentId": "quo9ziptsobbjwnia0fwfwwv",
+      "title": "AI Coding Trends in 2025: How Developers Are Building Software Today",
+      "summary": "AI coding is now a standard part of software development, evolving from simple autocomplete to intelligent agents that can generate, refactor, and manage code.Developers increasingly use natural language to build software, shifting their role toward design, review, and orchestration.AI boosts productivity while replacing old workflows—not developers themselves.",
+      "body": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI-assisted coding is no longer experimental — it’s a core part of modern software development. In 2025, developers aren’t asking whether to use AI tools, but how deeply to integrate them into their workflows. From code generation to autonomous agents, AI is reshaping how software is designed, written, and shipped."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Let’s break down the key trends defining AI coding today."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "1. AI Is Now a Default Developer Tool"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI coding assistants have become as standard as version control or package managers. Tools like GitHub Copilot, CodeWhisperer, and IDE-native assistants are embedded directly into daily workflows."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Developers use AI to:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Generate boilerplate and repetitive code"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Refactor legacy systems"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Explain unfamiliar codebases"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Write tests and documentation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Debug faster with contextual suggestions"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Instead of replacing developers, AI reduces cognitive load and speeds up iteration — especially in early development stages."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "2. From Autocomplete to Agentic Coding"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The biggest leap isn’t better autocomplete — it’s agentic AI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Modern AI coding tools can:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Understand entire repositories"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Execute multi-step tasks (plan → code → test → fix)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Run autonomously across files"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maintain context across long sessions"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Developers increasingly delegate tasks like “add authentication,” “optimize performance,” or “convert this service to another language” to AI agents, while they supervise the results."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This shift turns developers into orchestrators, focusing on architecture and correctness rather than typing every line."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "3. Natural Language Is Becoming a Programming Interface"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "One of the most disruptive trends is natural-language programming, often referred to as vibe coding."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Instead of writing syntax-heavy code, developers describe behavior:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Build a responsive dashboard with role-based access and real-time updates.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The AI generates working code, which developers then review, test, and refine."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This approach:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lowers the barrier to entry"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Accelerates prototyping"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enables faster experimentation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "While it still requires technical oversight, it’s changing how ideas turn into software — especially for startups and solo developers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "4. AI-Native IDEs Are Replacing Traditional Editors"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Editors are evolving into AI-first development environments."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Key features include:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Full-project awareness"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Real-time reasoning over architecture"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Inline refactoring suggestions"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Automatic test generation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Integrated deployment support"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Instead of being passive tools, IDEs now act like active collaborators — understanding why code exists, not just what it does."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "5. Productivity Gains Are Real — But Not Free"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI coding boosts productivity significantly, but it introduces new challenges:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI code can be “almost correct” but subtly wrong"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Over-reliance may reduce deep understanding"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Security and licensing concerns remain"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Code quality varies depending on prompts and context"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As a result, reviewing AI output has become a critical skill. Teams that treat AI like a junior developer — fast but imperfect — get the best results."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "6. The Developer Skill Set Is Evolving"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI is reshaping what it means to be a developer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "High-value skills now include:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "System design and architecture"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Prompt engineering and instruction clarity"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Code review and quality assurance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Understanding AI limitations and failure modes"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Integrating AI safely into production pipelines"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Typing speed matters less. Thinking clearly matters more."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "7. AI Won’t Replace Developers — But It Will Replace Old Workflows"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The fear that AI will eliminate developers misses the real change: it replaces inefficient workflows, not engineers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Developers who adapt gain leverage — shipping faster, experimenting more, and focusing on high-impact problems. Those who ignore AI risk falling behind teams that build with AI as a default."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Final Thoughts"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "AI coding in 2025 isn’t about shortcuts — it’s about amplification."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The most successful developers aren’t asking AI to think for them, but to think with them. As tools become more autonomous and context-aware, the future of software development looks less like writing code line by line — and more like collaborating with intelligent systems to build better products faster."
+            }
+          ]
+        }
+      ],
+      "date": "2025-12-21",
+      "category": "Rising technology ",
+      "createdAt": "2025-12-21T20:50:41.390Z",
+      "updatedAt": "2025-12-21T21:03:14.819Z",
+      "publishedAt": "2025-12-21T21:03:14.874Z",
+      "slug": "ai-coding-trends-in-2025-how-developers-are-building-software-today",
+      "mainImage": {
+        "id": 5,
+        "documentId": "pj9k1je3c1emcauk350fkw37",
+        "name": "how-ai-is-impacting-developer-skills-and-coding-quality-v0-Bwnx3KgBrevuAiOSw9SpPJjxACsoL2QQODuxIWDNeJI.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1200,
+        "height": 686,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_how-ai-is-impacting-developer-skills-and-coding-quality-v0-Bwnx3KgBrevuAiOSw9SpPJjxACsoL2QQODuxIWDNeJI.webp",
+            "hash": "thumbnail_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 245,
+            "height": 140,
+            "size": 9.77,
+            "sizeInBytes": 9768,
+            "url": "/uploads/thumbnail_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0.webp"
+          },
+          "small": {
+            "name": "small_how-ai-is-impacting-developer-skills-and-coding-quality-v0-Bwnx3KgBrevuAiOSw9SpPJjxACsoL2QQODuxIWDNeJI.webp",
+            "hash": "small_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 500,
+            "height": 286,
+            "size": 31.36,
+            "sizeInBytes": 31364,
+            "url": "/uploads/small_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0.webp"
+          },
+          "medium": {
+            "name": "medium_how-ai-is-impacting-developer-skills-and-coding-quality-v0-Bwnx3KgBrevuAiOSw9SpPJjxACsoL2QQODuxIWDNeJI.webp",
+            "hash": "medium_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 750,
+            "height": 429,
+            "size": 61.62,
+            "sizeInBytes": 61622,
+            "url": "/uploads/medium_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0.webp"
+          },
+          "large": {
+            "name": "large_how-ai-is-impacting-developer-skills-and-coding-quality-v0-Bwnx3KgBrevuAiOSw9SpPJjxACsoL2QQODuxIWDNeJI.webp",
+            "hash": "large_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "path": null,
+            "width": 1000,
+            "height": 572,
+            "size": 96.34,
+            "sizeInBytes": 96342,
+            "url": "/uploads/large_how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0.webp"
+          }
+        },
+        "hash": "how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 157.77,
+        "url": "/uploads/how_ai_is_impacting_developer_skills_and_coding_quality_v0_Bwnx3_Kg_Brevu_Ai_O_Sw9_Sp_P_Jjx_A_Cso_L2_QQO_Dux_IWD_Ne_JI_0d7dd54ee0.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-12-21T20:52:48.365Z",
+        "updatedAt": "2025-12-21T23:31:26.259Z",
+        "publishedAt": "2025-12-21T20:52:48.365Z"
+      },
+      "subImage": {
+        "id": 6,
+        "documentId": "elfpuzlmrzw7byxkqa3k54co",
+        "name": "Is-AI-Assisted-Coding-the-Next-Developer-Productivity-Silver-Bullet.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1165,
+        "height": 471,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_Is-AI-Assisted-Coding-the-Next-Developer-Productivity-Silver-Bullet.png",
+            "hash": "thumbnail_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 99,
+            "size": 39.25,
+            "sizeInBytes": 39251,
+            "url": "/uploads/thumbnail_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd.png"
+          },
+          "medium": {
+            "name": "medium_Is-AI-Assisted-Coding-the-Next-Developer-Productivity-Silver-Bullet.png",
+            "hash": "medium_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 303,
+            "size": 278.63,
+            "sizeInBytes": 278633,
+            "url": "/uploads/medium_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd.png"
+          },
+          "large": {
+            "name": "large_Is-AI-Assisted-Coding-the-Next-Developer-Productivity-Silver-Bullet.png",
+            "hash": "large_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 404,
+            "size": 459.21,
+            "sizeInBytes": 459209,
+            "url": "/uploads/large_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd.png"
+          },
+          "small": {
+            "name": "small_Is-AI-Assisted-Coding-the-Next-Developer-Productivity-Silver-Bullet.png",
+            "hash": "small_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 202,
+            "size": 136.99,
+            "sizeInBytes": 136992,
+            "url": "/uploads/small_Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd.png"
+          }
+        },
+        "hash": "Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 154.05,
+        "url": "/uploads/Is_AI_Assisted_Coding_the_Next_Developer_Productivity_Silver_Bullet_7843bd14cd.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-12-21T20:53:23.749Z",
+        "updatedAt": "2025-12-21T23:31:34.450Z",
+        "publishedAt": "2025-12-21T20:53:23.749Z"
+      }
+    },
+    {
+      "id": 6,
+      "documentId": "gd1hg4kly5trudqwllzysnfw",
+      "title": "Green Coding: Building Software with Sustainability in Mind",
+      "summary": "s digital services continue to expand at an unprecedented pace, the environmental impact of software is becoming impossible to ignore. Data centers consume vast amounts of energy, inefficient applications waste computing resources, and poorly optimized code contributes to unnecessary carbon emissions. This is where green coding—also known as sustainable or energy-efficient programming—comes into play.",
+      "body": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As digital services continue to expand at an unprecedented pace, the environmental impact of software is becoming impossible to ignore. Data centers consume vast amounts of energy, inefficient applications waste computing resources, and poorly optimized code contributes to unnecessary carbon emissions. This is where green coding—also known as sustainable or energy-efficient programming—comes into play."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding is not about limiting innovation. It is about writing smarter software that delivers the same (or better) functionality while using fewer resources."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "What Is Green Coding?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding refers to software development practices that minimize energy consumption and environmental impact across the entire lifecycle of an application—from design and development to deployment and maintenance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Unlike traditional optimization, which often focuses solely on performance or cost, green coding adds a sustainability lens:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "How much energy does this code consume?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "How efficiently does it use CPU, memory, storage, and network resources?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Can the same result be achieved with fewer computations?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Why Green Coding Matters"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "1. Environmental Impact"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Every digital interaction—streaming a video, loading a webpage, running a cloud service—requires electricity. Globally, the ICT sector already accounts for a significant share of carbon emissions, rivaling industries like aviation. Efficient code directly reduces energy demand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "2. Cost Efficiency"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Energy-efficient software is also cost-efficient software. Optimized applications reduce cloud computing costs, server load, and infrastructure scaling needs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "3. Performance and User Experience"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding often leads to:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Faster load times"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lower battery usage on mobile devices"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "More responsive applications"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sustainability and performance frequently go hand in hand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "4. Regulatory and Ethical Responsibility"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As sustainability regulations tighten and users become more environmentally conscious, organizations are increasingly expected to demonstrate responsible digital practices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Key Principles of Green Coding"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "1. Write Efficient Algorithms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Choosing the right algorithm can dramatically reduce energy use. An algorithm with lower time and space complexity consumes fewer resources, especially at scale."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "2. Reduce Unnecessary Computation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Avoid redundant calculations"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Cache results when appropriate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Minimize background processes and polling"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "3. Optimize Data Transfer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data movement is energy-intensive."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Compress data"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Reduce API calls"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Avoid over-fetching (especially in frontend applications)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "4. Use Resources Only When Needed"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lazy loading instead of loading everything upfront"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Turning off idle services"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Scaling infrastructure dynamically"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "5. Choose Sustainable Technologies"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Different programming languages, frameworks, and cloud providers have different energy footprints. Selecting efficient runtimes and green hosting providers can make a meaningful difference."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green Coding in Practice"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding is not a one-time task—it’s a mindset:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Integrate energy efficiency into code reviews"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Measure and monitor resource usage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Include sustainability goals alongside performance KPIs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Small improvements at the code level can lead to massive impact when software is used by thousands or millions of users."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Role of Developers and Organizations"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Developers are at the front line of sustainable digital transformation, but organizations must support them by:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Providing tools to measure energy consumption"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Encouraging sustainable design decisions"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Treating sustainability as a quality attribute, not an afterthought"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding is most effective when embedded into development culture, not added as a last-minute optimization."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusion"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Green coding represents the future of responsible software development. As digital systems become more deeply embedded in everyday life, the way we write code matters—not just for performance and profit, but for the planet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "By adopting green coding practices today, developers and organizations can build software that is efficient, scalable, and sustainable, proving that innovation and environmental responsibility can go hand in hand."
+            }
+          ]
+        }
+      ],
+      "date": "2025-09-23",
+      "category": "Coding",
+      "createdAt": "2025-12-22T13:27:26.044Z",
+      "updatedAt": "2025-12-22T13:27:26.044Z",
+      "publishedAt": "2025-12-22T13:27:26.097Z",
+      "slug": "green-coding-building-software-with-sustainability-in-mind",
+      "mainImage": {
+        "id": 7,
+        "documentId": "b4s66hnij0f7gvboca0fmqx6",
+        "name": "green code.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1200,
+        "height": 675,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_green code.jpg",
+            "hash": "thumbnail_green_code_9508eccc2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 138,
+            "size": 8.38,
+            "sizeInBytes": 8378,
+            "url": "/uploads/thumbnail_green_code_9508eccc2a.jpg"
+          },
+          "medium": {
+            "name": "medium_green code.jpg",
+            "hash": "medium_green_code_9508eccc2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 39.41,
+            "sizeInBytes": 39408,
+            "url": "/uploads/medium_green_code_9508eccc2a.jpg"
+          },
+          "small": {
+            "name": "small_green code.jpg",
+            "hash": "small_green_code_9508eccc2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 281,
+            "size": 22.5,
+            "sizeInBytes": 22502,
+            "url": "/uploads/small_green_code_9508eccc2a.jpg"
+          },
+          "large": {
+            "name": "large_green code.jpg",
+            "hash": "large_green_code_9508eccc2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 1000,
+            "height": 563,
+            "size": 58.41,
+            "sizeInBytes": 58410,
+            "url": "/uploads/large_green_code_9508eccc2a.jpg"
+          }
+        },
+        "hash": "green_code_9508eccc2a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 61.36,
+        "url": "/uploads/green_code_9508eccc2a.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-12-22T13:27:13.563Z",
+        "updatedAt": "2025-12-22T13:27:13.563Z",
+        "publishedAt": "2025-12-22T13:27:13.564Z"
+      },
+      "subImage": null
+    },
+    {
+      "id": 8,
+      "documentId": "ox3os8uzsf8vfepmvb3os2bn",
+      "title": "Advanced React in the Modern Web Development Era",
+      "summary": "React has evolved far beyond a simple UI library. In today’s development landscape, React is a powerful ecosystem that enables developers to build fast, scalable, and maintainable applications. Modern React emphasizes performance, developer experience, and seamless integration with full-stack architectures.",
+      "body": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React has evolved far beyond a simple UI library. In today’s development landscape, React is a powerful ecosystem that enables developers to build fast, scalable, and maintainable applications. Modern React emphasizes performance, developer experience, and seamless integration with full-stack architectures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This article explores the advanced concepts and best practices of React as they stand today, and how developers can take full advantage of them."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Shift to Modern React"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Modern React is centered around functional components and hooks, replacing many legacy patterns such as class components and lifecycle methods. This shift has simplified component logic while making code more reusable and readable."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Key changes include:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Functional components as the default"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hooks for state, lifecycle, and side effects"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Better separation of concerns"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This evolution has made React more predictable and easier to test at scale."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Advanced State Management"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "As applications grow, managing state efficiently becomes critical."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Built-in React Tools"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "useContext combined with useReducer for medium-sized apps"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "useMemo and useCallback for performance optimization"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "External State Libraries"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Modern React applications often use:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Redux Toolkit for structured global state"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Zustand or Jotai for lightweight state management"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React Query / TanStack Query for server-state handling"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The trend is toward simpler APIs with less boilerplate and better performance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Concurrent Rendering and React 18"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "One of the biggest advancements in recent React versions is concurrent rendering. React can now prepare multiple UI states in the background without blocking the main thread."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Key features include:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Automatic batching"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "startTransition for non-urgent updates"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Improved rendering responsiveness"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "These features lead to smoother user experiences, especially in data-heavy applications."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Server Components and Full-Stack React"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React Server Components represent a major step forward. They allow developers to render components on the server while keeping interactivity on the client."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Benefits include:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Reduced JavaScript sent to the browser"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Faster initial load times"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Better SEO and performance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Frameworks like Next.js and Remix are leading the way by combining server components, routing, and data fetching into a unified developer experience."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Performance Optimization Techniques"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Advanced React development focuses heavily on performance:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Code splitting with React.lazy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Memoization using React.memo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Virtualized lists for large datasets"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Avoiding unnecessary re-renders"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Performance is no longer an afterthought—it is built into application architecture from the start."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Modern Styling and Component Design"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Styling in React has matured significantly:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "CSS Modules for scoped styles"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Utility-first frameworks like Tailwind CSS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Component-driven design systems"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Advanced teams emphasize reusable components, accessibility, and consistent UI patterns."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Testing and Quality Assurance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Modern React applications rely on:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React Testing Library for component testing"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Jest or Vitest for unit tests"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "End-to-end testing with Playwright or Cypress"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Testing is closely aligned with user behavior rather than implementation details, improving reliability."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The Future of Advanced React"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React continues to evolve toward:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "More server-driven rendering"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Improved performance out of the box"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Better developer tooling"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Closer integration with web standards"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Advanced React development today is about understanding when and how to use the right tools—not just knowing React itself, but the ecosystem around it."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusion"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Advanced React in the current era is focused on efficiency, scalability, and user experience. By embracing modern patterns such as hooks, concurrent rendering, server components, and optimized state management, developers can build applications that are both powerful and future-ready."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "React’s continued evolution ensures it remains a cornerstone of modern web development."
+            }
+          ]
+        }
+      ],
+      "date": "2025-11-13",
+      "category": "game ",
+      "createdAt": "2025-12-22T13:31:40.804Z",
+      "updatedAt": "2025-12-22T13:31:40.804Z",
+      "publishedAt": "2025-12-22T13:31:40.853Z",
+      "slug": "advanced-react-in-the-modern-web-development-era",
+      "mainImage": {
+        "id": 8,
+        "documentId": "ria5aeqz1y7gd1fes190tviw",
+        "name": "advancereact.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 640,
+        "height": 480,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_advancereact.jpg",
+            "hash": "thumbnail_advancereact_711fd767b7",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 208,
+            "height": 156,
+            "size": 8.35,
+            "sizeInBytes": 8345,
+            "url": "/uploads/thumbnail_advancereact_711fd767b7.jpg"
+          },
+          "small": {
+            "name": "small_advancereact.jpg",
+            "hash": "small_advancereact_711fd767b7",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 375,
+            "size": 28.54,
+            "sizeInBytes": 28539,
+            "url": "/uploads/small_advancereact_711fd767b7.jpg"
+          }
+        },
+        "hash": "advancereact_711fd767b7",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 39.53,
+        "url": "/uploads/advancereact_711fd767b7.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-12-22T13:31:30.714Z",
+        "updatedAt": "2025-12-22T13:31:30.714Z",
+        "publishedAt": "2025-12-22T13:31:30.714Z"
+      },
+      "subImage": null
+    },
+    {
+      "id": 10,
+      "documentId": "sjf1hqhjhpibtzk9hgt1frwq",
+      "title": "The State of the Software Business in Finland — 2025",
+      "summary": "Finland’s software industry remains one of the most dynamic and strategically important sectors in the country’s economy. From rapid growth in SaaS revenue to renewed hiring and international expansion, the industry is at a turning point — balancing promising opportunities with notable challenges.",
+      "body": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Finland’s software industry remains one of the most dynamic and strategically important sectors in the country’s economy. From rapid growth in SaaS revenue to renewed hiring and international expansion, the industry is at a turning point — balancing promising opportunities with notable challenges."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Growth Revival After Uncertainty"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "After several years of global economic slowdowns and cautious investment behavior, the Finnish software industry is back on a growth trajectory. According to recent surveys, more than half of Finnish software companies plan to hire new employees in 2025, and over three-quarters expect revenue growth in the near term. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "B2B Finland.net"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This resurgence reflects increased customer investment, improving confidence in both domestic and international markets. Firms that specialize in cloud services, SaaS products, and digital solutions are reporting the strongest momentum."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "SaaS: A Core Engine of Business Value"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Software‑as‑a‑Service (SaaS) companies form the backbone of Finland’s software business. The collective revenue of the 100 largest SaaS firms in Finland has reached nearly €1.6 billion, significantly outpacing growth rates in many traditional sectors. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "STT Info"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "However, industry leaders note that global expansion remains a key challenge — with many companies still focusing more on domestic markets than on aggressive scaling abroad. Despite this, SaaS offerings that deliver strong digital customer experiences are consistently correlated with faster growth."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Success Stories with Global Reach"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Several Finnish software companies are now recognized internationally:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Supermetrics, a Helsinki‑based SaaS firm specializing in data integration and marketing analytics, has grown into a multimillion‑euro business with global customers. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Wikipedia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hoxhunt, another SaaS company focused on cybersecurity training, has gained recognition for its innovative approach to human risk management and security awareness. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Wikipedia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "High‑tech firms such as IQM Quantum Computers exemplify Finland’s ambition to pioneer emerging technologies, blending deep software engineering with quantum hardware. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Wikipedia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "These companies demonstrate how Finnish software firms can compete globally — particularly where niche expertise and innovation intersect."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring, Skills, and Talent Attraction"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "While growth expectations are positive, finding and retaining top technical talent remains a challenge. Many companies report a shortage of skilled developers, particularly in areas like AI, cloud technologies, and emerging platforms. This shortage has prompted policy responses: Finland is introducing tax incentives to attract foreign key employees and support startup compensation through more favorable share‑based rewards. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Computer Weekly"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nonetheless, not all segments of the job market benefit equally. Entry‑level and junior developer roles can be difficult to find, with anecdotal reports suggesting mixed experiences for recent graduates — especially non‑Finnish speakers or developers without niche skills."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Profitability and Market Dynamics"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Software companies are increasingly focused on profitability as well as growth. After years of prioritizing rapid expansion, many firms are now balancing revenue growth with sustainable margins and operational efficiency. This shift helps solidify the industry’s long‑term viability."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Public procurement is also becoming more SaaS‑friendly, with increasing participation of software vendors in government projects. This enhances opportunities for recurring revenue, though competition remains strong."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Innovation and Research"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Finland’s software ecosystem benefits from strong research capabilities and collaboration between universities, startups, and established firms. Efforts to integrate disciplines like quantum computing, edge computing, and AI continue to push technological boundaries. Emerging research highlights the increasing importance of sustainability in software development, positioning Finland as one of the European hubs for both innovation and responsible tech practices. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "arXiv"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Challenges Ahead"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Despite the positive news, the industry faces several headwinds:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Global competition — from established tech hubs in the U.S., EU, and Asia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talent constraints, particularly for mid‑level and senior developers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Regulatory uncertainty in related infrastructure sectors, such as data centres, which can influence decisions by major tech investors. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "FNLondon"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Looking Forward"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The outlook for Finland’s software business in late 2025 and beyond is cautiously optimistic. With renewed growth, expanding SaaS revenue, supportive government incentives, and strong research ecosystems, Finland is well‑positioned to remain a key player in European tech."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Yet success will depend on continuing to scale globally, attract talent, and innovate responsibly in emerging technology domains. For many Finnish software companies, the coming years will determine whether they can maintain competitive advantage on the world stage while contributing to economic resilience at home."
+            }
+          ]
+        }
+      ],
+      "date": "2025-12-18",
+      "category": "Software development ",
+      "createdAt": "2025-12-22T13:36:42.363Z",
+      "updatedAt": "2025-12-22T13:36:42.363Z",
+      "publishedAt": "2025-12-22T13:36:42.424Z",
+      "slug": "the-state-of-the-software-business-in-finland-2025",
+      "mainImage": {
+        "id": 9,
+        "documentId": "l63fluew8eo6gquy83fne70g",
+        "name": "The-best-it-companies-and-software-companies-in-finland.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 850,
+        "height": 567,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_The-best-it-companies-and-software-companies-in-finland.jpg",
+            "hash": "thumbnail_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 234,
+            "height": 156,
+            "size": 13.43,
+            "sizeInBytes": 13426,
+            "url": "/uploads/thumbnail_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9.jpg"
+          },
+          "medium": {
+            "name": "medium_The-best-it-companies-and-software-companies-in-finland.jpg",
+            "hash": "medium_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 500,
+            "size": 70.63,
+            "sizeInBytes": 70632,
+            "url": "/uploads/medium_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9.jpg"
+          },
+          "small": {
+            "name": "small_The-best-it-companies-and-software-companies-in-finland.jpg",
+            "hash": "small_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 334,
+            "size": 41.44,
+            "sizeInBytes": 41438,
+            "url": "/uploads/small_The_best_it_companies_and_software_companies_in_finland_5ba8f535b9.jpg"
+          }
+        },
+        "hash": "The_best_it_companies_and_software_companies_in_finland_5ba8f535b9",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 84.37,
+        "url": "/uploads/The_best_it_companies_and_software_companies_in_finland_5ba8f535b9.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-12-22T13:36:36.840Z",
+        "updatedAt": "2025-12-22T13:36:36.840Z",
+        "publishedAt": "2025-12-22T13:36:36.840Z"
+      },
+      "subImage": null
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}

@@ -24,20 +24,17 @@ export default function ProjectPage() {
     project.cover?.formats?.medium?.url || project.cover?.url;
 
   return (
-    <>
- 
     <div className="project-detail-container">
       <h1>{project.title}</h1>
+
       {coverUrl ? (
-        <img
-          src={`http://localhost:1337${coverUrl}`}
-          alt={project.title}
-          className="project-detail-cover"
-        />
+        <img src={coverUrl} alt={project.title} className="project-detail-cover" />
       ) : (
         <div className="fallback">No Image</div>
       )}
+
       <p className="summary">{project.summary}</p>
+
       <div className="project-description">
         {project.description.map((block, index) => (
           <p key={index}>
@@ -45,25 +42,19 @@ export default function ProjectPage() {
           </p>
         ))}
       </div>
+
       <p className="tech">
         <strong>Tech Stack:</strong> {project.techStack}
       </p>
+
       <div className="links">
         {project.liveLink && (
-          <a href={project.liveLink} target="_blank" rel="noopener noreferrer">
-            Live Project
-          </a>
+          <a href={project.liveLink} target="_blank">Live</a>
         )}
         {project.gitLink && (
-          <>
-            {" | "}
-            <a href={project.gitLink} target="_blank" rel="noopener noreferrer">
-              GitHub Repo
-            </a>
-          </>
+          <a href={project.gitLink} target="_blank">GitHub</a>
         )}
       </div>
     </div>
-    </>
   );
 }

@@ -23,25 +23,29 @@ export default function BlogDetailPage() {
       <span className="date">{blog.date}</span>
 
       {blog.mainImage && (
-        <img className="main-image" src={blog.mainImage} alt={blog.title} />
+        <img
+          className="main-image"
+          src={blog.mainImage}
+          alt={blog.title}
+        />
       )}
 
-      {/* BODY */}
       <div className="blog-body">
-        {blog.body.map((block, index) => {
-          if (block.type === "paragraph") {
-            return (
-              <p key={index}>
-                {block.children.map((child, i) => child.text).join("")}
-              </p>
-            );
-          }
-          return null;
-        })}
+        {blog.body.map((block, index) => (
+          block.type === "paragraph" && (
+            <p key={index}>
+              {block.children.map((child) => child.text).join("")}
+            </p>
+          )
+        ))}
       </div>
 
       {blog.subImage && (
-        <img className="sub-image" src={blog.subImage} alt="Extra" />
+        <img
+          className="sub-image"
+          src={blog.subImage}
+          alt="Extra"
+        />
       )}
     </div>
   );

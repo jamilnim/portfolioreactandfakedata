@@ -1,0 +1,1588 @@
+{
+    "data": [
+      {
+        "id": 3,
+        "documentId": "hgeg9b5065mkid8r3g3w1bdl",
+        "title": "Hr apps",
+        "summary": "HR Apps is a full-stack employee management system built with React and Node.js, featuring complete CRUD functionality through RESTful APIs.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Project Overview"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "HR Apps is a full-stack employee management application designed to streamline basic HR operations such as listing, managing, and updating employee data. Built with modern web technologies, this project showcases both frontend and backend capabilities and highlights my expertise in building scalable and maintainable full-stack applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Key Features"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Employee List View: Displays all employees with key details (name, position, department, etc.)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Add / Edit / Delete Employees: Full CRUD functionality to manage employee records efficiently"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Responsive UI: Clean, intuitive interface that works across devices"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "API-Driven Architecture: Seamless communication between frontend and backend through RESTful APIs"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Error Handling & Validation: Form validation and user feedback for reliable UX"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tech Stack"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Frontend"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "React (functional components + hooks)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "HTML5 & CSS3"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Axios for data fetching"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Responsive design principles"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Backend"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Node.js & Express.js"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "RESTful API design"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "MongoDB for persistent data storage"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "CORS and JSON middleware"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "What I Built / Learned"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Designed a dynamic and reusable frontend with React"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Implemented secure and efficient REST APIs"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Integrated frontend and backend as a cohesive full-stack system"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Practiced best practices with modular code, error handling, and API structure"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Improved deployment knowledge using Render for hosting live applications"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Why This Project Matters"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "HR Apps demonstrates my ability to architect a full-stack application from scratch, manage state and data flow efficiently, and deliver a real-world tool that could be expanded into larger HR systems. Whether for team management or portfolio evaluation, HR Apps reflects practical coding skills and end-to-end development experience"
+              }
+            ]
+          }
+        ],
+        "liveLink": "https://hrappsfontend.onrender.com/employeelist",
+        "gitLink": "https://github.com/jamilnim/hrappsfontend.git",
+        "techStack": "React ",
+        "createdAt": "2025-12-20T21:44:51.528Z",
+        "updatedAt": "2025-12-21T07:54:37.573Z",
+        "publishedAt": "2025-12-21T07:54:37.606Z",
+        "slug": "hr-apps",
+        "cover": {
+          "id": 1,
+          "documentId": "bkb92focr0azuxqpsvinmtu0",
+          "name": "IS-Hero_From-Firefighter-to-Leader_Implementing-a-New-and-More-Effective-HR-Service-Model.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 800,
+          "height": 420,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_IS-Hero_From-Firefighter-to-Leader_Implementing-a-New-and-More-Effective-HR-Service-Model.png",
+              "hash": "thumbnail_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 245,
+              "height": 129,
+              "size": 83.61,
+              "sizeInBytes": 83608,
+              "url": "/uploads/thumbnail_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4.png"
+            },
+            "medium": {
+              "name": "medium_IS-Hero_From-Firefighter-to-Leader_Implementing-a-New-and-More-Effective-HR-Service-Model.png",
+              "hash": "medium_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 750,
+              "height": 394,
+              "size": 671.69,
+              "sizeInBytes": 671693,
+              "url": "/uploads/medium_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4.png"
+            },
+            "small": {
+              "name": "small_IS-Hero_From-Firefighter-to-Leader_Implementing-a-New-and-More-Effective-HR-Service-Model.png",
+              "hash": "small_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 500,
+              "height": 263,
+              "size": 322.15,
+              "sizeInBytes": 322148,
+              "url": "/uploads/small_IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4.png"
+            }
+          },
+          "hash": "IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 177.3,
+          "url": "/uploads/IS_Hero_From_Firefighter_to_Leader_Implementing_a_New_and_More_Effective_HR_Service_Model_0d35c558a4.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2025-12-20T21:44:47.561Z",
+          "updatedAt": "2025-12-20T21:44:47.561Z",
+          "publishedAt": "2025-12-20T21:44:47.561Z"
+        }
+      },
+      {
+        "id": 5,
+        "documentId": "ltb1l57jp2gcgv83a83ovdry",
+        "title": "Pancakeorderapps",
+        "summary": "Pancake Deploy Test is a lightweight web application that allows users to create and customize their own pancake orders. Built entirely with vanilla JavaScript, HTML, and CSS, the project highlights core front-end development skills, DOM manipulation, and dynamic user interactions without relying on any frameworks or libraries.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Live Demo: https://pancakedeploytest.vercel.app/"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Repository: https://github.com/jamilnim/pancakedeploytest.git"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Project Overview"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pancake Deploy Test is a lightweight web application that allows users to create and customize their own pancake orders. Built entirely with vanilla JavaScript, HTML, and CSS, the project highlights core front-end development skills, DOM manipulation, and dynamic user interactions without relying on any frameworks or libraries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Key Features"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Custom Pancake Builder: Users can select ingredients, toppings, and portions to personalize their pancakes."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Real-Time Order Preview: Orders update dynamically as users make selections, reflecting changes instantly."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Responsive Design: Fully functional on desktops, tablets, and mobile devices."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Form Validation: Ensures users submit valid orders with clear error messages."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Deployment on Vercel: Live demo available to showcase real-world deployment experience."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tech Stack"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "HTML5: Semantic structure for forms, buttons, and content."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "CSS3: Styling, layout, and responsive design without frameworks."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vanilla JavaScript: DOM manipulation, event handling, and dynamic updates."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Deployment: Hosted on Vercel for instant live access."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "What I Built / Learned"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Created a fully functional interactive web app using only vanilla JavaScript."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Learned to manage dynamic UI updates with DOM manipulation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Practiced responsive design and cross-device compatibility using CSS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Gained experience deploying a live application with Vercel."
+              }
+            ]
+          }
+        ],
+        "liveLink": " https://pancakedeploytest.vercel.app/",
+        "gitLink": "https://github.com/jamilnim/pancakedeploytest.git",
+        "techStack": "Venila Java script ,HTML,CSS",
+        "createdAt": "2025-12-21T08:32:53.715Z",
+        "updatedAt": "2025-12-21T08:32:53.715Z",
+        "publishedAt": "2025-12-21T08:32:53.754Z",
+        "slug": "pancakeorderapps",
+        "cover": {
+          "id": 2,
+          "documentId": "fc99a8o5acbbklrjjhp6kghz",
+          "name": "original-c2e197ace21e46fc6bcd3c0e53ddbba8.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 752,
+          "height": 564,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_original-c2e197ace21e46fc6bcd3c0e53ddbba8.webp",
+              "hash": "thumbnail_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8",
+              "ext": ".webp",
+              "mime": "image/webp",
+              "path": null,
+              "width": 208,
+              "height": 156,
+              "size": 8.82,
+              "sizeInBytes": 8822,
+              "url": "/uploads/thumbnail_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8.webp"
+            },
+            "medium": {
+              "name": "medium_original-c2e197ace21e46fc6bcd3c0e53ddbba8.webp",
+              "hash": "medium_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8",
+              "ext": ".webp",
+              "mime": "image/webp",
+              "path": null,
+              "width": 750,
+              "height": 562,
+              "size": 51.73,
+              "sizeInBytes": 51734,
+              "url": "/uploads/medium_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8.webp"
+            },
+            "small": {
+              "name": "small_original-c2e197ace21e46fc6bcd3c0e53ddbba8.webp",
+              "hash": "small_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8",
+              "ext": ".webp",
+              "mime": "image/webp",
+              "path": null,
+              "width": 500,
+              "height": 375,
+              "size": 31.11,
+              "sizeInBytes": 31114,
+              "url": "/uploads/small_original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8.webp"
+            }
+          },
+          "hash": "original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 61.11,
+          "url": "/uploads/original_c2e197ace21e46fc6bcd3c0e53ddbba8_5f3ffd74d8.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2025-12-21T08:32:48.367Z",
+          "updatedAt": "2025-12-21T08:32:48.367Z",
+          "publishedAt": "2025-12-21T08:32:48.367Z"
+        }
+      },
+      {
+        "id": 7,
+        "documentId": "e0q9pzwxf1elwyo6bwq4xlpq",
+        "title": "Event Management Apps",
+        "summary": "Finnish Event Planner is a React-based web application designed to help users discover, organize, and explore local summer events in their community. Built with a clean component architecture",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Finnish Event Planner — React Local Events Web App"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Repository: https://github.com/TJsohn/finnish_event_planner.git"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Finnish Event Planner is a React-based web application designed to help users discover, organize, and explore local summer events in their community. Built with a clean component architecture and powered by a fake JSON database for data simulation, the app demonstrates modern frontend development practices, interactive UI features, and state management using React. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GitHub"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Key Highlights"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "React Frontend: Modular React components for event listing, adding, editing, and viewing details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GitHub"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fake JSON Data: Uses a db.json file as a mock backend to simulate events and storage, enabling CRUD operations without a real server. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GitHub"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Interactive Features: Includes event discovery, event management forms, and dynamic state updates. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GitHub"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Collaborative Team Project: Developed as part of a group project, focusing on UI design, map integration, and mock data handling. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GitHub"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "This project showcases your ability to build a full-featured React application with simulated backend data and highlights your skills in frontend architecture and user-centric design."
+              }
+            ]
+          }
+        ],
+        "liveLink": null,
+        "gitLink": "https://github.com/TJsohn/finnish_event_planner.git",
+        "techStack": "React, Module css",
+        "createdAt": "2025-12-21T13:52:00.287Z",
+        "updatedAt": "2025-12-21T13:52:00.287Z",
+        "publishedAt": "2025-12-21T13:52:00.321Z",
+        "slug": "event-management-apps",
+        "cover": {
+          "id": 3,
+          "documentId": "lhxo38dtltnwfgh70bnp4sre",
+          "name": "calendar-meeting.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 512,
+          "height": 333,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_calendar-meeting.jpg",
+              "hash": "thumbnail_calendar_meeting_2b4ada3904",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 240,
+              "height": 156,
+              "size": 12.68,
+              "sizeInBytes": 12681,
+              "url": "/uploads/thumbnail_calendar_meeting_2b4ada3904.jpg"
+            },
+            "small": {
+              "name": "small_calendar-meeting.jpg",
+              "hash": "small_calendar_meeting_2b4ada3904",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 500,
+              "height": 325,
+              "size": 45.08,
+              "sizeInBytes": 45083,
+              "url": "/uploads/small_calendar_meeting_2b4ada3904.jpg"
+            }
+          },
+          "hash": "calendar_meeting_2b4ada3904",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 46.73,
+          "url": "/uploads/calendar_meeting_2b4ada3904.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2025-12-21T13:51:54.584Z",
+          "updatedAt": "2025-12-21T13:51:54.584Z",
+          "publishedAt": "2025-12-21T13:51:54.584Z"
+        }
+      },
+      {
+        "id": 9,
+        "documentId": "nfqmpritkrjvwdgydgpu7fsw",
+        "title": "Unelma website",
+        "summary": "Unelma Frontend is a modern web application built using Next.js for the frontend and Strapi as the backend CMS. This project demonstrates how to create dynamic, content-driven web interfaces by integrating a React-based Next.js app with a headless Strapi backend for scalable and manageable data content",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Frontend Repo: https://github.com/jamilnim/unelma_frondend_nexjs.git"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Unelma Frontend is a modern web application built using Next.js for the frontend and Strapi as the backend CMS. This project demonstrates how to create dynamic, content-driven web interfaces by integrating a React-based Next.js app with a headless Strapi backend for scalable and manageable data content."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Key Highlights"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Next.js Frontend: Built with Next.js to leverage React features and optimized rendering."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strapi Backend: Uses Strapi as a headless CMS to manage content and data structures. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strapi"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Modular CSS: Styled using CSS Modules to keep styles scoped and maintainable."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dynamic Content: Fetches and displays content from Strapi’s API to support real-time content updates."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Responsive UI: Designed to work smoothly on desktop and mobile devices."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Technologies Used"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Next.js (React Framework)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strapi (Headless CMS)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "CSS Modules for component-level styling"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "HTML5 & modern JavaScript / React principles"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Why This Project Matters"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "This project showcases end-to-end frontend architecture with a decoupled headless backend, illustrating your skills in building performant UI with Next.js while leveraging Strapi for content management. It also highlights best practices in modular styling and frontend-backend integration in modern web development."
+              }
+            ]
+          }
+        ],
+        "liveLink": null,
+        "gitLink": "https://github.com/jamilnim/unelma_frondend_nexjs.git",
+        "techStack": "Next Js , Strapi , Module css",
+        "createdAt": "2025-12-21T14:07:17.811Z",
+        "updatedAt": "2025-12-21T14:07:17.811Z",
+        "publishedAt": "2025-12-21T14:07:17.847Z",
+        "slug": "unelma-website",
+        "cover": {
+          "id": 4,
+          "documentId": "ykyevrub5d1k21mws0c1e16n",
+          "name": "unelma-mail-11-transperency1689274046.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 800,
+          "height": 600,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_unelma-mail-11-transperency1689274046.png",
+              "hash": "thumbnail_unelma_mail_11_transperency1689274046_04e981667d",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 208,
+              "height": 156,
+              "size": 22.68,
+              "sizeInBytes": 22683,
+              "url": "/uploads/thumbnail_unelma_mail_11_transperency1689274046_04e981667d.png"
+            },
+            "small": {
+              "name": "small_unelma-mail-11-transperency1689274046.png",
+              "hash": "small_unelma_mail_11_transperency1689274046_04e981667d",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 500,
+              "height": 375,
+              "size": 62.4,
+              "sizeInBytes": 62401,
+              "url": "/uploads/small_unelma_mail_11_transperency1689274046_04e981667d.png"
+            },
+            "medium": {
+              "name": "medium_unelma-mail-11-transperency1689274046.png",
+              "hash": "medium_unelma_mail_11_transperency1689274046_04e981667d",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 750,
+              "height": 563,
+              "size": 105.14,
+              "sizeInBytes": 105143,
+              "url": "/uploads/medium_unelma_mail_11_transperency1689274046_04e981667d.png"
+            }
+          },
+          "hash": "unelma_mail_11_transperency1689274046_04e981667d",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 16.95,
+          "url": "/uploads/unelma_mail_11_transperency1689274046_04e981667d.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2025-12-21T14:07:09.556Z",
+          "updatedAt": "2025-12-21T14:07:09.556Z",
+          "publishedAt": "2025-12-21T14:07:09.557Z"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 4
+      }
+    }
+  }
