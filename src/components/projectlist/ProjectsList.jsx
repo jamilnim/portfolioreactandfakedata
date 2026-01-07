@@ -29,7 +29,9 @@ export default function ProjectsList() {
 
   return (
     <>
-      <div className="projectHeader">Projects</div>
+      <div className="projectHeader" id="project">
+        Projects
+      </div>
 
       <div className={styles.grid}>
         {visible.map((project) => {
@@ -56,10 +58,7 @@ export default function ProjectsList() {
 
       {/* Pagination */}
       <div className={styles.pagination}>
-        <button
-          onClick={() => setPage((p) => p - 1)}
-          disabled={page === 0}
-        >
+        <button onClick={() => setPage((p) => p - 1)} disabled={page === 0}>
           ◀
         </button>
 

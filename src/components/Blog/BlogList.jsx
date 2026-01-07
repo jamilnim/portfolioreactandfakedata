@@ -15,10 +15,15 @@ export default function BlogList() {
   }, []);
 
   return (
-    <div className="blog-list">
-      {blogs.map((blog) => (
-        <BlogCard key={blog.id} blog={blog} />
-      ))}
-    </div>
+    <>
+      <div className="bloghead" id="blogs">
+        Blogs
+      </div>
+      <div className="blog-list">
+        {blogs.map((blog) => (
+          <BlogCard key={blog.id} blog={blog} />
+        ))}
+      </div>
+    </>
   );
 }

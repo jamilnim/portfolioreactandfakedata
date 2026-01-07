@@ -3,6 +3,7 @@ import "./BlogCard.css";
 
 export default function BlogCard({ blog }) {
   return (
+    <>
     <div className="blog-card">
       {blog.mainImage && (
         <img
@@ -22,5 +23,6 @@ export default function BlogCard({ blog }) {
         </Link>
       </div>
     </div>
+    </>
   );
 }
