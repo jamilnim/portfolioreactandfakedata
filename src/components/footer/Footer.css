@@ -13,7 +13,7 @@
   overflow: hidden;
   z-index: 1;
   width: 100vw;
-  padding: 2rem;
+  padding: 0rem;
   text-align: center;
 }
 
@@ -88,9 +88,10 @@
     justify-content: space-between;
     align-items: center;
     width: 100vw;
-    padding: 3rem;
+    padding: 0rem;
     height: 15rem;
     text-align: left;
+    padding-bottom: 3rem;
   }
 
   .footer-left {

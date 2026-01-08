@@ -1,24 +1,33 @@
-/* ✅ Base (Mobile first) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* =====================================================
+   SECTION (Mobile First)
+===================================================== */
+
 .exp-section {
   position: relative;
-
   text-align: center;
+
   background-image: url(../../assets/background/heading.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+
   overflow: hidden;
   z-index: 1;
-  width: 100vw;
 }
 
 /* Foggy overlay */
 .exp-section::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  inset: 0;
   height: 110%;
   background: linear-gradient(
     to bottom,
@@ -30,33 +39,49 @@
   z-index: 0;
 }
 
+/* Ensure content stays above overlay */
 .exp-title,
 .exp-grid {
   position: relative;
   z-index: 2;
 }
 
-/* ✅ Mobile heading */
+/* =====================================================
+   TITLE
+===================================================== */
+
 .exp-title {
   font-size: 1.5rem;
   font-weight: 700;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0;
   color: #faf8f8;
 }
 
-/* ✅ Mobile grid layout (stacked) */
+/* =====================================================
+   GRID (Mobile: stacked)
+===================================================== */
+
 .exp-grid {
   display: flex;
   flex-direction: column;
   align-items: center;
+
   background-color: #f1f2f5;
+  border-radius: 8px;
+
+  margin: 0 auto 2rem;
   padding: 1rem;
-  border-radius: 7px;
+  width: 90%;
 }
 
-/* ✅ Mobile box */
+/* =====================================================
+   CARD
+===================================================== */
+
 .exp-box {
-  max-width: 70%;
+  width: 100%;
+  max-width: 320px;
+
   padding: 1rem;
   border-bottom: 1px solid #ddd;
 }
@@ -67,37 +92,40 @@
 
 .exp-value {
   font-size: 1.3rem;
-  font-weight: bold;
+  font-weight: 700;
   color: #111;
-  width: 80%;
 }
 
 .exp-label {
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
-  width: 80%;
 }
 
-/* ✅ Tablet (≥768px) */
+/* =====================================================
+   TABLET (≥768px)
+===================================================== */
+
 @media (min-width: 768px) {
   .exp-title {
     font-size: 2rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.75rem;
   }
 
   .exp-grid {
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
+
     padding: 2rem;
+    gap: 1.5rem;
   }
 
   .exp-box {
-    width: auto;
-    flex: 1 1 50px;
     border-bottom: none;
     border-right: 1px solid #ddd;
+    max-width: none;
+    flex: 1 1 160px;
   }
 
   .exp-box:last-child {
@@ -113,19 +141,40 @@
   }
 }
 
-/* ✅ Desktop (≥1024px) */
+/* =====================================================
+   DESKTOP (≥1024px)
+===================================================== */
+
 @media (min-width: 1024px) {
   .exp-title {
     font-size: 2.5rem;
     margin-bottom: 2rem;
   }
 
-  .exp-value {
-    font-size: 1.8rem;
+  /* Content container */
+  .exp-grid {
+    max-width: 90vw;
+    margin: 0 auto 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    padding-inline: 2rem;  /* 2rem from screen edges */
+    padding-block: 2rem;
+
+    gap: 2rem;
   }
 
-  .exp-section{
-    width: 100vw;
-    padding: 3rem;
+  /* Cards centered with reduced width */
+  .exp-box {
+    flex: 0 1 180px;
+    border-right: 1px solid #ddd;
+  }
+
+  .exp-box:last-child {
+    border-right: none;
+  }
+
+  .exp-value {
+    font-size: 1.8rem;
   }
 }

@@ -9,7 +9,7 @@ html {
   align-items: center;
   min-width: 100%;
   min-height: 100vh;
-  padding: 3;
+  padding: 0;
   position: relative;
   z-index: 1;
   background-color: black;
@@ -195,8 +195,8 @@ a {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-   padding-left: 3rem;
-   padding-right: 3rem;
+   padding-left: 0rem;
+   padding-right: 0rem;
    padding-top: 0;
     text-align: left;
     

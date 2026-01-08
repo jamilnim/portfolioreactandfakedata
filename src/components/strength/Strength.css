@@ -63,7 +63,8 @@
 /* ✅ DESKTOP (>= 1024px) */
 @media (min-width: 1024px) {
   .strength-section {
-    padding: 4rem 3rem;
+    padding: 0rem;
+    padding-bottom: 3rem;
   }
 
   .strength-title {

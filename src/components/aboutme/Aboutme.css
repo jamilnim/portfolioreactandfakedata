@@ -77,7 +77,7 @@ body {
   .container {
     flex-direction: row;
     height: 30rem;
-    padding: 3rem;
+    padding: 0rem;
   }
 
   .sideButton {
@@ -88,8 +88,8 @@ body {
   .aboutmeHeading {
     font-size: 3em;
     padding-top: 6rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
   }
 
   .aboutmeContent {
