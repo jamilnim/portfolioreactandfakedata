@@ -1,70 +1,149 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* =====================================================
+   CONTAINER
+===================================================== */
+
 .card-container {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    width: 100vw;
-    background:white;
-    position: relative;
-    backdrop-filter: blur(3px);
-    height: 400px;
+  width: 100vw;
+  background: white;
+  position: relative;
+  overflow: hidden;
+
+  padding: 3rem 0 2rem;
+}
+
+/* =====================================================
+   HEADING (Mobile centered visually)
+===================================================== */
+
+.card-container h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+
+  margin: 0 auto 2rem;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* =====================================================
+   MARQUEE ROW
+===================================================== */
+
+.card {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  margin-bottom: 1.2rem;
+}
+
+/* =====================================================
+   LOGO TRACK
+===================================================== */
+
+.logos {
+  display: flex;
+  white-space: nowrap;
+  flex-shrink: 0;
+  animation: slide-left 18s linear infinite;
+}
+
+.logos.reverse {
+  animation: slide-right 18s linear infinite;
+}
+
+.logos span {
+  display: flex;
+}
+
+/* =====================================================
+   LOGOS (Mobile FIRST — keep original colors)
+===================================================== */
+
+.logos img {
+  height: 56px;
+  margin-right: 2.5rem;
+  object-fit: contain;
+
+  /* 🔥 IMPORTANT: NO FILTERS ON MOBILE */
+  filter: none;
+  opacity: 1;
+}
+
+/* =====================================================
+   ANIMATIONS
+===================================================== */
+
+@keyframes slide-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes slide-right {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* =====================================================
+   TABLET (≥768px)
+===================================================== */
+
+@media (min-width: 768px) {
+  .card-container h1 {
+    font-size: 1.9rem;
+    margin-bottom: 2.2rem;
   }
 
-
-  
-  .card {
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    background: transparent;
-    margin-top: 5rem;
-   
-  }
-  
-  .logos {
-    display: flex;
-    white-space: nowrap;
-    flex-shrink: 0;
-    animation: slide-left 20s linear infinite;
-  
-   
-  }
-  
-  .logos span {
-    display: flex;
-  }
-  
   .logos img {
-    height: 80px; /* adjust logo size */
-    margin-right: 4rem; /* gap between logos */
-    object-fit: contain;
-    box-shadow: 0 0 20px rgba(52, 152, 219, 0.7);
+    height: 70px;
+    margin-right: 3.5rem;
   }
-  
-  /* Left-moving marquee */
-  @keyframes slide-left {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-50%);
-    }
-  }
-  
-  /* Right-moving marquee */
-  .logos.reverse {
-    animation: slide-right 20s linear infinite;
-  }
-  
-  @keyframes slide-right {
-    0% {
-      transform: translateX(-50%);
-    }
-    100% {
-      transform: translateX(0);
-    }
+}
+
+/* =====================================================
+   DESKTOP (≥1024px)
+===================================================== */
+
+@media (min-width: 1024px) {
+  .card-container {
+    padding: 4rem 0 3rem;
   }
 
-  h1{
-    text-align: center;
+  .card-container h1 {
+    font-size: 2.3rem;
+    margin-bottom: 2.5rem;
   }
-  
+
+  .logos img {
+    height: 80px;
+    margin-right: 4rem;
+  }
+
+  /* Optional polish ONLY on desktop */
+  .logos img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+
+  .logos {
+    animation-duration: 22s;
+  }
+
+  .logos.reverse {
+    animation-duration: 22s;
+  }
+}

@@ -74,10 +74,12 @@ html {
 }
 
 .blog-card p {
-  margin: 0 16px 16px;
+  margin: 0px 16px 16px;
   font-size: 0.95rem;
   line-height: 1.5;
   color: #555;
+height: 300px;
+ 
 }
 
 .read-more {
@@ -85,7 +87,7 @@ html {
   margin: 0 16px 18px;
   font-size: 0.95rem;
   font-weight: 500;
-  color: #1a73e8;
+  color: grey;
   text-decoration: none;
 }
 

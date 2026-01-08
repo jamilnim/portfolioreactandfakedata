@@ -21,56 +21,56 @@ const techLogos = [
 function Card() {
   return (
     <>
-    <h1>Technial Skill</h1>
-    <div className="card-container">
-      {/* First Row */}
-      <div className="card">
-        <div className="logos">
-          <span>
-            {techLogos.map((logo, index) => (
-              <img
-                key={`row1-logo1-${index}`}
-                src={`/logos/${logo}`}
-                alt={logo.replace(".png", "")}
-              />
-            ))}
-          </span>
-          <span>
-            {techLogos.map((logo, index) => (
-              <img
-                key={`row1-logo2-${index}`}
-                src={`/logos/${logo}`}
-                alt={logo.replace(".png", "")}
-              />
-            ))}
-          </span>
+      <div className="card-container">
+        <h1>Technical Skills</h1>
+        {/* First Row */}
+        <div className="card">
+          <div className="logos">
+            <span>
+              {techLogos.map((logo, index) => (
+                <img
+                  key={`row1-logo1-${index}`}
+                  src={`/logos/${logo}`}
+                  alt={logo.replace(".png", "")}
+                />
+              ))}
+            </span>
+            <span>
+              {techLogos.map((logo, index) => (
+                <img
+                  key={`row1-logo2-${index}`}
+                  src={`/logos/${logo}`}
+                  alt={logo.replace(".png", "")}
+                />
+              ))}
+            </span>
+          </div>
         </div>
-      </div>
 
-      {/* Second Row (reverse direction) */}
-      <div className="card">
-        <div className="logos reverse">
-          <span>
-            {techLogos.map((logo, index) => (
-              <img
-                key={`row2-logo1-${index}`}
-                src={`/logos/${logo}`}
-                alt={logo.replace(".png", "")}
-              />
-            ))}
-          </span>
-          <span>
-            {techLogos.map((logo, index) => (
-              <img
-                key={`row2-logo2-${index}`}
-                src={`/logos/${logo}`}
-                alt={logo.replace(".png", "")}
-              />
-            ))}
-          </span>
+        {/* Second Row (reverse direction) */}
+        <div className="card">
+          <div className="logos reverse">
+            <span>
+              {techLogos.map((logo, index) => (
+                <img
+                  key={`row2-logo1-${index}`}
+                  src={`/logos/${logo}`}
+                  alt={logo.replace(".png", "")}
+                />
+              ))}
+            </span>
+            <span>
+              {techLogos.map((logo, index) => (
+                <img
+                  key={`row2-logo2-${index}`}
+                  src={`/logos/${logo}`}
+                  alt={logo.replace(".png", "")}
+                />
+              ))}
+            </span>
+          </div>
         </div>
       </div>
-    </div>
     </>
   );
 }
