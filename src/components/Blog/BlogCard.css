@@ -5,6 +5,7 @@ html {
 /* =========================
    BLOG HEADER
 ========================= */
+
 .bloghead {
   text-align: center;
   font-size: 2.5rem;
@@ -15,6 +16,7 @@ html {
 /* =========================
    BLOG LIST – MOBILE FIRST
 ========================= */
+
 .blog-list {
   display: flex;
   gap: 16px;
@@ -22,9 +24,11 @@ html {
 
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
+  scroll-snap-stop: always;
 
-  /* hide scrollbar */
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+
   scrollbar-width: none;
 }
 .blog-list::-webkit-scrollbar {
@@ -34,6 +38,7 @@ html {
 /* =========================
    BLOG CARD – MOBILE
 ========================= */
+
 .blog-card {
   flex: 0 0 95%;
   scroll-snap-align: center;
@@ -42,72 +47,69 @@ html {
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   overflow: hidden;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+  will-change: transform;
 }
 
-/* Hover effect (desktop only feel) */
-.blog-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+/* Touch feedback (NOT hover) */
+.blog-card:active {
+  transform: scale(0.97);
 }
 
 /* =========================
    BLOG IMAGE
 ========================= */
+
 .blog-card-img {
   width: 100%;
-  height: 55vw;          /* mobile-first */
+  height: 55vw;
   min-height: 200px;
   max-height: 320px;
   object-fit: cover;
-  display: block;
 }
 
 /* =========================
    BLOG CONTENT
 ========================= */
+
 .blog-card h3 {
   margin: 16px 16px 8px;
   font-size: 1.25rem;
   font-weight: 600;
-  color: #222;
 }
 
 .blog-card p {
-  margin: 0px 16px 16px;
+  margin: 0 16px 16px;
   font-size: 0.95rem;
   line-height: 1.5;
   color: #555;
-height: 300px;
- 
 }
 
 .read-more {
   display: inline-block;
   margin: 0 16px 18px;
-  font-size: 0.95rem;
-  font-weight: 500;
   color: grey;
-  text-decoration: none;
-}
-
-.read-more:hover {
-  text-decoration: underline;
 }
 
 /* =========================
-   EMPTY STATE
+   DESKTOP HOVER ONLY
 ========================= */
-.no-blogs {
-  text-align: center;
-  padding: 50px;
-  font-size: 1.1rem;
-  color: #777;
+
+@media (hover: hover) and (pointer: fine) {
+  .blog-card {
+    transition: transform 0.35s ease, box-shadow 0.35s ease;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+  }
 }
 
 /* =========================
-   TABLET & DESKTOP
+   DESKTOP GRID
 ========================= */
+
 @media (min-width: 768px) {
   .bloghead {
     font-size: 4rem;
@@ -118,18 +120,15 @@ height: 300px;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 24px;
 
-    overflow-x: unset;
+    overflow-x: visible;
     scroll-snap-type: none;
   }
 
   .blog-card {
     flex: unset;
-    width: 100%;
   }
 
   .blog-card-img {
     height: 20vw;
-    min-height: 180px;
-    max-height: 320px;
   }
 }
