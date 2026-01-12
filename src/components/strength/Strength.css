@@ -1,7 +1,7 @@
 /* ✅ MOBILE FIRST (default) */
 .strength-section {
   background-color: #000000;
-  padding: 2rem 1.5rem;
+  padding: 0rem 0rem;
   text-align: center;
   width: 100vw;
 }
@@ -28,15 +28,16 @@
   background: #000000;
   border-radius: 16px;
   padding: 1.5rem;
-  box-shadow: 0 6px 16px white;
+  box-shadow: 0 3px 10px white;
   width: 100%;
-  max-width: 350px;
+  max-width: 80%;
   height: auto;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: center;
   color: white;
+  margin-bottom: 3rem;
 }
 
 .strength-card.bar,
